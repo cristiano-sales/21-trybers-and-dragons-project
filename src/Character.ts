@@ -48,12 +48,12 @@ export default class Character implements Fighter {
   }
 
   public get energy(): Energy {
-    const attributeEnergy = {
+    const energyAttribute = {
       type_: this._energy.type_,
       amount: this._energy.amount,
     };
 
-    return attributeEnergy;
+    return energyAttribute;
   }
 
   public get race(): Race {
