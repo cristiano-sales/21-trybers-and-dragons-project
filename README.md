@@ -1,16 +1,8 @@
 # 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+#### Julho de 2022
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+# Back-end
+## TypeScript
 
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+# As configurações iniciais, tal como as configurações de lint e jest e o docker-compose foram concedidas pela Trybe.
